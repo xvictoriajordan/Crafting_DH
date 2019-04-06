@@ -21,5 +21,5 @@ forked from rblades\example_fail-log_craftingDH
 **Each week you will create a new fail log file at the root of your forked repository. To create a new file in your GitHub repository, follow the instructions below:**
 
 1. At the root of your repository, click the button labelled ``Create new file``. For reference, visit [GitHub's instructional guide for creating new files](https://help.github.com/en/articles/creating-new-files).
-2. Title your file to resemble the following: ``2019-04-18-week-2-fail-log.md``. **Always title your file with the date first (using the YYYY-MM-DD convention)**.
+2. Title your file to resemble the following: ``2019-04-12-week-2-fail-log.md``. **Always title your file with the date first (using the YYYY-MM-DD convention)**.
 3. This creates a new markdown (.md) file. For more information on the Markdown syntax, read [Daring Fireball's instroduction to Markdown](https://daringfireball.net/projects/markdown/syntax). We cover Markdown in-depth in [Module 1, Exercise 1 of the Crafting Digital History Workbook](http://workbook.craftingdigitalhistory.ca/module-1/Exercises/#exercise-1-learning-markdown-syntax-with-dillingerio). 
