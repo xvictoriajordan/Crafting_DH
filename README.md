@@ -20,13 +20,20 @@ forked from rblades\example_fail-log_craftingDH
 6. Each week you will include a link to your 3 most important Hypothes.is annotations and reflect on how the 3 annotations were meaningful to your learning.
 7. In the first week you will also reflect on your worries for the course, any technical issues you encountered, etc.
 
+You can also edit this main file (``README.md``) in your forked copy of the repository to contain a summary of your fail logs. The README file is the first file people read when they visit your repository. To edit this file, follow the instruction below:
+
+1. Click the ``README.md`` file to open it.
+2. To the right of the button group labelled ``Raw``, ``Blame``, and ``History``, click the pen/pencil icon to edit the ``README.md`` file. ``README.md`` is a Markdown (.md) file. For more information on the Markdown syntax, read [Daring Fireball's instroduction to Markdown](https://daringfireball.net/projects/markdown/syntax). We cover Markdown in-depth in [Module 1, Exercise 1 of the Crafting Digital History Workbook](http://workbook.craftingdigitalhistory.ca/module-1/Exercises/#exercise-1-learning-markdown-syntax-with-dillingerio).
+3. Change the title text to something relevant.
+4. Delete all these instructions and add a relevant summary of your fail logs. You can continue updating this file.
+
 ## Create a new file in GitHub in the browser
 
 Each week you will create a new fail log file at the root of your forked repository. To create a new file in your GitHub repository, follow the instructions below:
 
 1. At the root of your repository, click the button labelled ``Create new file``. For reference, visit [GitHub's instructional guide for creating new files](https://help.github.com/en/articles/creating-new-files).
 2. Title your file to resemble the following: ``2019-04-12-week-2-fail-log.md``. **Always title your file with the date first (using the YYYY-MM-DD convention)**.
-3. This creates a new markdown (.md) file. For more information on the Markdown syntax, read [Daring Fireball's instroduction to Markdown](https://daringfireball.net/projects/markdown/syntax). We cover Markdown in-depth in [Module 1, Exercise 1 of the Crafting Digital History Workbook](http://workbook.craftingdigitalhistory.ca/module-1/Exercises/#exercise-1-learning-markdown-syntax-with-dillingerio). 
+3. This creates a new markdown (.md) file. 
 4. Add your fail log for that week.
 5. At the bottom of the file, enter a brief 'commit' message about what you updated.
 6. Click the green button at the bottom labelled ``Commit new file``.
