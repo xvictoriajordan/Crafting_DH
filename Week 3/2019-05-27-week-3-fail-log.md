@@ -9,3 +9,5 @@ I decided to delete the files for that exercise so I could redo it and save my s
 * On exercise 6, and the install for ImageMagick is not working. I have tried what others have suggested in the chat but nothing so far. I think I will log out then back into DHBox and see if it works.
 * Asked the group if they knew how to fix my issue above and it turns out for the `apt-get update` I had to put `sudo` in front of it. Everything downlaoded smooth from there.
 * Exercise 6 was interesting, comparing the two documents (texts from the image), both had some pros and cons. It was just really cool to see the text being somewhat written out!
+* Couldn't get the batch conversions to work. Then saw the note that trying `~war-diary` might work. That didn't work. Then saw another note saying that it's actually `~/war-diary`. The downlaod worked from there.
+* Also thought it only downloaded 2 files at first. I then realized that it takes time for this to work and that by going between my File Manager home and the war diary file, I could see them update every minute or so. Just waiting for all of them to download now. 
