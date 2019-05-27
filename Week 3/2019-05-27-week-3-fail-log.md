@@ -5,4 +5,5 @@
 I decided to delete the files for that exercise so I could redo it and save my steps. DHBox wouldn't let me delete the whole file, a few folders remained. So I left them and re-did the exercise.
 * Trying to complete exercise 3, so far I've had no luck on it being able to open correctly in Firefox. I am still trying to go through and make sure all my code is correct.
 * After starting fresh and re-doing all the code (I was getting too mixed up and decided a fresh start would be better) I finally did it! [This annotation](https://hyp.is/RBLjsmEnEeipk4f1oHw-Gw/workbook.craftingdigitalhistory.ca/module-2/Exercises/) describes this moment very well!
-Skipped on exercise 5 as I did not want to sign up for a twitter account. I did read through the exercise and it seems really interesting what you can do with the information gathered.
+* Skipped on exercise 5 as I did not want to sign up for a twitter account. I did read through the exercise and it seems really interesting what you can do with the information gathered.
+* On exercise 6, and the install for ImageMagick is not working. I have tried what others have suggested in the chat but nothing so far. I think I will log out then back into DHBox and see if it works.
